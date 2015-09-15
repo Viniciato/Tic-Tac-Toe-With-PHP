@@ -1,0 +1,153 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/* Custom page header */
+.header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+table.velha input{
+  width: 150px;
+  height: 150px;
+}
+table.velha button{
+  width: 150px;
+  height: 150px;
+}
+table.velha td{
+  border: 5px solid #000;
+}
+
+#A{
+  border-top: none;
+  border-left: none;
+}
+
+#B{
+  border-top: none;
+}
+
+#C{
+  border-right: none;
+  border-top: none;
+}
+
+#D{
+  border-left: none;
+}
+
+#F{
+  border-right: none;
+}
+
+#G{
+  border-bottom: none;
+  border-left: none;
+}
+
+#H{
+  border-bottom: none;
+}
+
+#I{
+  border-right: none;
+  border-bottom: none;
+}
+
+button, input, optgroup, select, textarea {
+  margin: 0;
+  color: black;
+  font-size: 100px;
+  text-align: center;
+}
+
+.label{
+  font-size: 100px;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  padding: 10px 16px;
+  font-size: 14px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+
+.O{
+  color: red;
+}
+
+.X{
+  color: blue;
+}
