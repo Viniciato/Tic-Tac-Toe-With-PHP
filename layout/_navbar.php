@@ -4,7 +4,7 @@
   <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
       <div class="navbar-header">
-        <a class="navbar-brand center" href="index.php">Tic Tac Toe em PHP</a>
+        <a class="navbar-brand center" href="index.php">Tic Tac Toe with PHP</a>
       </div>
 
     </div>

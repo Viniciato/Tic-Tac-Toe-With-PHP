@@ -9,7 +9,7 @@
     <meta name="author" content="Vinicius Nadin">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Bem Vindo</title>
+    <title>Tic Tac Toe</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/core.css" rel="stylesheet">
