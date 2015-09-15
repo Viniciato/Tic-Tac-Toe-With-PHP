@@ -1,7 +1,7 @@
       </div>
 
       <footer class="footer">
-        <p class="text-center">Desenvolvido por <a href="https://github.com/vininadin/">Vinicius Nadin</a> e <a href="https://github.com/mvornes/">Michael Vornes</a></p>
+        <p class="text-center">Desenvolvido por <a href="https://github.com/viniciato/">Vinicius Nadin</a> e <a href="https://github.com/mvornes/">Michael Vornes</a></p>
       </footer>
 
     </div> <!-- /container -->

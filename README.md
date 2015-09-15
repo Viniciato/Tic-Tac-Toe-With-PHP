@@ -31,5 +31,5 @@ ou para o diretorio raiz do seu servidor, devem estar configurados e funcionando
 
 [PHP]: <https://secure.php.net/>
 [BootStrap]: <http://getbootstrap.com/>
-[Vinicius Nadin]: https://github.com/vininadin
+[Vinicius Nadin]: https://github.com/viniciato
 [Michael Vornes]: https://github.com/mvornes
