@@ -33,7 +33,8 @@ ou para o diretorio raiz do seu servidor, devem estar configurados e funcionando
 [BootStrap]: <http://getbootstrap.com/>[]
 [Vinicius Nadin]: https://github.com/viniciato
 [Michael Vornes]: https://github.com/mvornes
+[Jogar]: http://jogodavelhaphp.esy.es/
 
 
 ### Demo
-http://jogodavelhaphp.esy.es/
+[Jogar] Click aqui para jogar!!!
