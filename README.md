@@ -37,4 +37,4 @@ ou para o diretorio raiz do seu servidor, devem estar configurados e funcionando
 
 
 ### Demo
-[Jogar] Click aqui para jogar!!!
+* [Jogar] - Click aqui para jogar!!!
