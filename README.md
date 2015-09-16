@@ -1,4 +1,4 @@
-# Game Tic Tac Toe With PHP
+# Game TicTacToe With PHP
 The readme in english of this project has not yet been developed.
 
 ### Desenvolvedores
@@ -30,6 +30,10 @@ ou para o diretorio raiz do seu servidor, devem estar configurados e funcionando
 - Revisão de codigo fonte.
 
 [PHP]: <https://secure.php.net/>
-[BootStrap]: <http://getbootstrap.com/>
+[BootStrap]: <http://getbootstrap.com/>[]
 [Vinicius Nadin]: https://github.com/viniciato
 [Michael Vornes]: https://github.com/mvornes
+
+
+### Demo
+http://jogodavelhaphp.esy.es/
