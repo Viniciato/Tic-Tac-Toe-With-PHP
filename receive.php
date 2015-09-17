@@ -1,39 +1,19 @@
 <?php
-
 if (isset($_POST['field'])) 
 {
-
 	if (isset($_POST['new'])) 
 	{
 		unset($_POST['field']);
 	}
 
-	if (isset($_POST['jogador'])) 
+	if ($_POST['jogador'])
 	{
 		$jogador = $_POST['jogador'];
 	}
 
-	if (isset($jogador) && $jogador == 'O') 
-	{
-		$jogador = 'X';
-	}
-	else
-	{
-		$jogador = 'O';
-	}
-
-	if (isset($_POST['jogada'])) 
-	{
-		$jogada = $_POST['jogada'];
-	}
-
-	if (isset($jogada) && $jogada == 'X') 
-	{
-		$jogada = 'O';
-	}
-	else
-	{
-		$jogada = 'X';
+	if ($_POST['counter']) {
+		$counter = $_POST['counter'];
+		$counter++;
 	}
 
 	$field[0] = $_POST['field'][0];
@@ -55,5 +35,17 @@ if (isset($_POST['field']))
 	{
 		$ganhador = 1;
 	}
+	else if ($jogador == 'O') 
+	{
+		$jogador = 'X';
+	}
+	else
+	{
+		$jogador = 'O';
+	}
+	if ($counter == 10 && @$ganhador != 1) {
+		$ganhador = 2;
+	}
+
 }
 ?>
